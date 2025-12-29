@@ -155,10 +155,10 @@ on:
         default: "1024"
         type: choice
         options:
-          - '1024'
+          - '4096'
       builder_name:
         description: "设置打包作者的名称"
-        required: true
+        required: false
         default: 'wukongdaily'
 
 jobs:
