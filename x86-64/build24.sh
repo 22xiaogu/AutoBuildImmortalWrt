@@ -70,6 +70,10 @@ PACKAGES="$PACKAGES luci-i18n-zerotier-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-adblock-fast-zh-cn"
 PACKAGES="$PACKAGES luci-app-adblock-fast"
 PACKAGES="$PACKAGES adblock-fast"
+PACKAGES="$PACKAGES gawk"
+PACKAGES="$PACKAGES grep"
+PACKAGES="$PACKAGES sed"
+PACKAGES="$PACKAGES coreutils-sort"
 # 文件管理器
 #PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
 # ======== shell/custom-packages.sh =======
