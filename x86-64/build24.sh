@@ -84,6 +84,7 @@ PACKAGES="$PACKAGES gawk"
 PACKAGES="$PACKAGES grep"
 PACKAGES="$PACKAGES sed"
 PACKAGES="$PACKAGES coreutils-sort"
+PACKAGES="$PACKAGES luci-theme-aurora"
 # 文件管理器
 #PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
 # ======== shell/custom-packages.sh =======
